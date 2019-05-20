@@ -1,0 +1,5 @@
+git add a.txt  提交到暂存区
+git rm --cached a.txt  踢出暂存区
+git commit -m 'new' 更改信息
+git push
+
